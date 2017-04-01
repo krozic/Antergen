@@ -1,0 +1,9 @@
+redshift
+
+Change temperature of monitor for the evening
+
+neutral temp = 6500
+
+warm temp = (4500-5500)
+
+slow transition based on gps
