@@ -1,0 +1,6 @@
+xbindkeys
+
+keymaping software (ex mapping calculator, volume keys, program shortcuts, script exec)
+
+store .xbindkeysrc file in ~/
+make sure xbindkeys starts on logon (~/.config/autostart/xbindkeys.desktop)
